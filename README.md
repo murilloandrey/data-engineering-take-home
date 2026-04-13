@@ -22,7 +22,7 @@ The solution focuses on:
 1. Open the repository in GitHub
 2. Click **Code → Codespaces → Create Codespace**
 3. Wait for environment setup
-4. Run:
+4. Run on the terminal:
 
 ``` bash
 python src/main.py
